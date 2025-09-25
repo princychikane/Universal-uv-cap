@@ -48,8 +48,8 @@ Adoption of UV-C caps in industrial and household settings can significantly red
 ## 7. Prototype Design
 
 Below is the prototype design of the *Universal UV-C Bottle Cap*:
+![Universal UV-C Cap Prototype](https://raw.githubusercontent.com/<username>/<repo-name>/main/images/uvcap.png)
 
-![Universal UV-C Cap Prototype](https://github.com/user-attachments/assets/4024cfa1-725d-4bf7-881a-56c5ff1822a7)
 
 The design shows:
 - UV-C LED in the cap that emits germicidal light.  
