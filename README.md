@@ -45,13 +45,7 @@ Maintenance	High	Low
 ## 6. Conclusion:
 Adoption of UV-C caps in industrial and household settings can significantly reduce energy consumption and CO₂ emissions, contributing to decarbonization efforts in the power and steel sectors.
 
-## 7. Prototype Design
-
-Below is the prototype design of the *Universal UV-C Bottle Cap*:
-![Universal UV-C Cap Prototype](https://raw.githubusercontent.com/<username>/<repo-name>/main/images/uvcap.png)
-
-
-The design shows:
+## 7. The design shows:
 - UV-C LED in the cap that emits germicidal light.  
 - Reflective cone to direct light downward.  
 - Safety sensor to ensure the light works only when the cap is tightly closed.  
@@ -78,6 +72,17 @@ Prototype Video (optional): prototype-video.mp4
 
 :- Water becomes germ-free and safe to drink.
 
+
+## Submission Note  
+
+This project has been developed as a prototype for the  
+*Greenovation Challenge 2025*  
+
+Organized by *E-Cell IIT Bombay* in association with *EarthON Foundation*.  
+
+Theme: Innovating for Decarbonising Power and Steel Sector  
+
+Challenge Website: [Greenovation Challenge 2025](https://ecell.in/links/4OnvyY)
 
 
 
