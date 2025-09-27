@@ -46,6 +46,8 @@ Maintenance	High	Low
 Adoption of UV-C caps in industrial and household settings can significantly reduce energy consumption and CO₂ emissions, contributing to decarbonization efforts in the power and steel sectors.
 
 ## 7. The design shows:
+https://github.com/princychikane/Universal-uv-cap/blob/main/Universal%20UV-C%20Bottle%20Cap%20Diagram.png
+
 - UV-C LED in the cap that emits germicidal light.  
 - Reflective cone to direct light downward.  
 - Safety sensor to ensure the light works only when the cap is tightly closed.  
